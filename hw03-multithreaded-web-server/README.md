@@ -43,8 +43,3 @@ The server uses a fixed-size thread pool and a synchronized bounded queue to han
 - `output.c` - CGI program used for dynamic request testing
 - `home.html` - default static page
 - `Makefile` - build configuration
-
-## How to Build
-
-```bash
-make

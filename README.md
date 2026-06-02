@@ -59,8 +59,6 @@ operating-systems-coursework/
 * Custom memory management
 * Makefile
 
-## Notes
+## Note
 
 These projects were created as part of academic coursework and later organized for portfolio presentation.
-
-Submission ZIPs, generated binaries, test artifacts, full kernel source trees, and IDE-specific files are intentionally excluded.
